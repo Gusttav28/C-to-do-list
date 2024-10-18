@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gustavocamacho/Desktop/Cshar-to-do-list/to_do_list_cshar_project/obj/Debug/net8.0/scopedcss/projectbundle/to_do_list_cshar_project.bundle.scp.css",
+      "PackagePath": "staticwebassets/to_do_list_cshar_project.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/gustavocamacho/Desktop/Cshar-to-do-list/to_do_list_cshar_project/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/gustavocamacho/Desktop/Cshar-to-do-list/to_do_list_cshar_project/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/gustavocamacho/Desktop/Cshar-to-do-list/to_do_list_cshar_project/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/gustavocamacho/Desktop/Cshar-to-do-list/to_do_list_cshar_project/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.to_do_list_cshar_project.props",
+      "PackagePath": "build\\to_do_list_cshar_project.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.to_do_list_cshar_project.props",
+      "PackagePath": "buildMultiTargeting\\to_do_list_cshar_project.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.to_do_list_cshar_project.props",
+      "PackagePath": "buildTransitive\\to_do_list_cshar_project.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.to_do_list_cshar_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/to_do_list_cshar_project.props" />
+</Project>
